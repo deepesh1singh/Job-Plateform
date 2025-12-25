@@ -1,6 +1,30 @@
-# REST Express Application
+# JobConnect Platform
 
-A modern full-stack web application built with React, TypeScript, Node.js, and Express. This project features a responsive frontend with Radix UI components and a robust backend API.
+A comprehensive job search and recruitment platform connecting job seekers with employers. Built with modern web technologies, JobConnect provides a seamless experience for both candidates looking for their next opportunity and companies seeking top talent.
+
+## Overview
+
+JobConnect is a full-stack job platform that enables:
+
+### For Job Seekers
+- Browse and search for job listings
+- Create and manage professional profiles
+- Apply to jobs with a single click
+- Track application status
+- Receive job recommendations based on skills and preferences
+
+### For Employers/Recruiters
+- Post and manage job listings
+- Review and filter applications
+- Search and connect with potential candidates
+- Schedule interviews
+- Manage hiring pipeline
+
+### For Administrators
+- Manage platform users and permissions
+- Monitor platform activity and analytics
+- Handle content moderation
+- Configure system settings
 
 ## Features
 
